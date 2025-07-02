@@ -1,4 +1,4 @@
-﻿# 🧪 SemanticAPITestAutomation Project Analysis
+﻿# 🧪 SemanticAPITestAutomation Project
 
 ## 📋 Project Overview
 
